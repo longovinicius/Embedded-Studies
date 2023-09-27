@@ -1,9 +1,27 @@
 # Embedded-Studies
 Repo for small Embedded Systems applications
-### Dependencies
+
+## Prerequisites
+
 - A C++ compiler (e.g., `g++`).
 - The `make` utility.
 
-### Running this code
-1. make
-2. ./program
+## Compilation
+
+To compile the code, follow these steps:
+
+1. Navigate to the directory containing the source files and the `Makefile`:
+
+   ```bash
+   cd path/to/your/directory
+   ```
+
+2. Run make to compile
+   ```bash
+   make
+   ```
+
+3. After successful compilation, run the program with:
+   ```bash
+   ./program
+   ```
